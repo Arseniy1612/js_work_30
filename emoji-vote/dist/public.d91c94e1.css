@@ -1,0 +1,19 @@
+body {
+  color: #e6edf3;
+  background: #0d1117;
+  font-family: Segoe UI, sans-serif;
+}
+
+button.btn-outline-primary {
+  color: #e6edf3;
+  background: #161b22;
+  border-color: #30363d;
+  transition: all .2s;
+}
+
+button.btn-outline-primary:hover {
+  color: #fff;
+  background: #238636;
+  border-color: #238636;
+}
+/*# sourceMappingURL=public.d91c94e1.css.map */

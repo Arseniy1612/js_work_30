@@ -1,0 +1,16 @@
+{
+  "name": "emoji-vote",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "parcel public/index.html --port 3001",
+    "build": "parcel build public/index.html"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  }
+}

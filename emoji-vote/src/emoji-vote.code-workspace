@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../Downloads/SYTE"
+		},
+		{
+			"path": "../../Downloads/www"
+		},
+		{
+			"path": "../../swapi-ui"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "SYTE"
+	}
+}
